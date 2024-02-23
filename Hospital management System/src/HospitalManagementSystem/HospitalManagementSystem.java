@@ -104,7 +104,7 @@ public class HospitalManagementSystem {
 
     }
     public static boolean checkDoctorAvailability(int doctorId, String appointmentDate,Connection connection){
-        String query="SELECT COUNT(+) FROM appointments WHERE doctor_id=? appointment_date=?";
+        String query="SELECT COUNT(*) FROM appointments WHERE doctor_id=? appointment_date=?";
         try{
             PreparedStatement preparedStatement=connection.prepareStatement(query);
             preparedStatement.setInt(1,doctorId);
