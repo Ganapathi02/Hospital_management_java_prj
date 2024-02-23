@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm GANAPATHI.V</h1>
-<h3 align="center">A passionate java developer</h3>
-
 - 📫 How to reach me **2016027@saec.ac.in**
 
 <h3 align="left">Connect with me:</h3>
