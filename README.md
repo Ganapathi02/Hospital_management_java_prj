@@ -16,6 +16,7 @@
 
 1. Download 
    * Install spring tool suite 4
+     link:https://cdn.spring.io/spring-tools/release/STS4/4.21.1.RELEASE/dist/e4.30/spring-tool-suite-4-4.21.1.RELEASE-e4.30.0-win32.win32.x86_64.self-extracting.jar
    * My sql connector
      link:https://dev.mysql.com/blog-archive/mysql-connector-j-8-0-17-has-been-released/
 
