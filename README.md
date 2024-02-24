@@ -1,5 +1,7 @@
 - 📫 How to reach me **2016027@saec.ac.in**
 - ![home_page](https://github.com/Ganapathi02/Hospital_management_java_prj/assets/125415508/48b4b858-802d-4b07-8f25-d7dc7c922883)
+- ![patient](https://github.com/Ganapathi02/Hospital_management_java_prj/assets/125415508/35887be0-9a39-477b-bff9-aab04726f38d)
+![doctor](https://github.com/Ganapathi02/Hospital_management_java_prj/assets/125415508/2b2c7e2d-edc7-402a-af14-4284db6e7f44)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
